@@ -5,3 +5,6 @@
 • Included over 5 KPIs for monitoring key metrics such as accident trends, total casualities, and high-risk locations.
 
 • Consolidated accident data from 10+ sources and multiple regions, ensuring a comprehensive analysis.
+
+
+NOTE: Could not add the main csv file due to it's large size.
